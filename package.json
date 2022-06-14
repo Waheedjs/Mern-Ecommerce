@@ -1,0 +1,31 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "Mern stack ecommerce web",
+  "main": "App.js",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "graceful-fs": "^4.2.10",
+    "moment": "^2.29.3",
+    "jsonfile": "^6.1.0",
+    "ms": "^2.1.2",
+    "random": "^3.0.6",
+    "seedrandom": "^3.0.5",
+    "simple-git": "^3.7.1",
+    "universalify": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Waheedjs/Mern-Ecommerce.git"
+  },
+  "author": "Waheedjs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Waheedjs/Mern-Ecommerce/issues"
+  },
+  "homepage": "https://github.com/Waheedjs/Mern-Ecommerce#readme"
+}
